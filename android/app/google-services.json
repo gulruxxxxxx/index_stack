@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1012332903940",
+    "project_id": "gulrux-767ea",
+    "storage_bucket": "gulrux-767ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012332903940:android:d8cc954ac67408a7187f51",
+        "android_client_info": {
+          "package_name": "com.example.gulrux"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdEqAuzaRkDmgohwdc7O0ETYl4fzjTINo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012332903940:android:3a2e5eaf1670876f187f51",
+        "android_client_info": {
+          "package_name": "com.example.produktiv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdEqAuzaRkDmgohwdc7O0ETYl4fzjTINo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
